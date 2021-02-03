@@ -1,0 +1,52 @@
+/* CSS Document */
+
+#bodyContent{ width:100%; text-align:center; margin-bottom:10px;}
+h1{ color:#FFFFFF; font-size:14px; padding-left:30px; line-height:38px;display:inline}
+h2{ color:#493FA7; font-size:12px; line-height:20px; padding-left:10px; display:inline}
+#Location{ width:930px; margin-left:auto;margin-right:auto; margin-top:10px;color:#222222; text-align:left}
+.Lcenter{ width:930px; margin-left:auto; margin-right:auto; }
+.Lcenter .l{ width:615px; float:left;border:1px solid #D5D5D5} .Lcenter .r{ width:296px; float:right;border:1px solid #D5D5D5}
+.Lcenter .Cl{ width:618px; float:left;} .Lcenter .Cr{ width:296px; float:right;}
+.hotList{width:280px;list-style:none; margin:60px 0px 0px 0px; line-height:22px; color:#fff; margin-left:auto; margin-right:auto}
+.hotList li{ border-bottom:1px dashed #fff;}
+.hotList .Ll{ float:left} .hotList .Lr{ float:right}
+#meun_title{ width:619px;background:url(../images/ye_lower_title.JPG)/*tpa=http://www.cn0-6.com/images/ye_lower_title.JPG*/ no-repeat; height:34px; text-align:left; overflow:hidden }
+#meun_content{width:616px;background:#E1F5D0; border-left:1px solid #ABE08E; border-right:1px solid #ABE08E; border-top:1px solid #ABE08E;}
+#con_ul{list-style:none; width:308px; float:left; height:auto;margin:0px;padding:0px; text-align:left}
+* html #meun_content{width:613px;} * html #con_ul{ width:306px;} /*½â¾öIE6µÄ3px BUG*/
+
+#meun_down{ width:619px; height:9px; background:url(../images/ye_lower_title_down.JPG)/*tpa=http://www.cn0-6.com/images/ye_lower_title_down.JPG*/ no-repeat;}
+
+#kj_new{ width:304px; height:188px; background:url(../images/ye_lower_new.JPG)/*tpa=http://www.cn0-6.com/images/ye_lower_new.JPG*/ no-repeat;}
+#kj_hot{ width:304px; height:193px; background:url(../images/ye_lower_hot.JPG)/*tpa=http://www.cn0-6.com/images/ye_lower_hot.JPG*/ no-repeat; margin-top:10px;}
+#Goshop{ height:115px; background:#605CC5; margin-top:10px;}
+
+.showC{ background:#fff; width:284px; margin:0px auto}
+.hideC{ background:#fff; width:284px; margin:0px auto; display:none}
+.showC ul{ list-style:none; margin:0px; padding:0px; margin-top:10px; display:inline-block}
+.showC .li{ background:url(../images/ye_content_ico.gif)/*tpa=http://www.cn0-6.com/images/ye_content_ico.gif*/ 3px 3px no-repeat; padding-left:11px; text-align:left; line-height:20px; }
+.showC img{ height:90px; width:114px; border:1px solid #ABE08E; padding:3px;}
+
+#door_content{ margin-top:10px; background:#fff;}
+.door_top{background:url(../images/ye_lower_right_c_top.JPG)/*tpa=http://www.cn0-6.com/images/ye_lower_right_c_top.JPG*/ bottom no-repeat; width:295px; height:9px; margin:0px auto;}
+.door_c{ background:#72CF3B; width:295px; margin:0px auto;}
+.door_down{ background:url(../images/ye_lower_right_c_down.JPG)/*tpa=http://www.cn0-6.com/images/ye_lower_right_c_down.JPG*/ no-repeat; width:295px; height:9px;}
+
+.Page{font-size:14px;color: #222222;}
+a.Page:link {color:#222222;text-decoration: none;} 
+a.Page:visited {color: #222222;text-decoration: none;} 
+a.Page:hover{color: #ff3300;text-decoration: underline;} 
+a.Page:active {color: #222222;text-decoration: underline;} 
+
+.dooropen{font-size:12px;color: #52B318; background:url(../images/ye_door_on.jpg)/*tpa=http://www.cn0-6.com/images/ye_door_on.jpg*/; cursor:pointer; display:inline-block; height:25px; width:66px; line-height:25px; margin:0px 2px;font-weight:bold}
+.doorclose{font-size:12px;color: #52B318; background:url(../images/ye_door_down.jpg)/*tpa=http://www.cn0-6.com/images/ye_door_down.jpg*/; cursor:pointer; display:inline-block; height:25px; width:66px; line-height:25px; margin:0px 2px;}
+
+.items{font-size:12px;color: #222222;padding-left:5px; padding-right:5px;}
+a.items:link {color:#222222;text-decoration: none;} 
+a.items:visited {color: #666666;text-decoration: none;} 
+a.items:hover{color: #ff3300;text-decoration: underline;} 
+a.items:active {color: #222222;text-decoration: underline;} 
+
+.rr{margin:10px 0px;width:296px; height:100%;text-align:left; line-height:20px;}
+.rr p{font-size:14px; font-weight:bold; text-align:center; margin:0; padding:0;}
+.rbody{width:280px; height:100%; overflow:hidden; background-color:#72CE3B; padding:10px}

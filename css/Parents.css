@@ -1,0 +1,38 @@
+/* CSS Document */
+
+#bodyContent{ width:100%; text-align:center; margin-bottom:10px;}
+h1{ color:#FFFFFF; font-size:14px; line-height:30px;padding-left:30px; display:inline}
+h2{ color:#999999; font-size:12px; margin:0px;}
+#Location{ width:930px; margin-left:auto;margin-right:auto; margin-top:10px; color:#222222; text-align:left}
+.Lcenter{ width:930px; margin-left:auto; margin-right:auto; }
+#kj_top{ width:459px; height:192px; background:url(../images/bm_hot.JPG)/*tpa=http://www.cn0-6.com/images/bm_hot.JPG*/ no-repeat; float:left}
+#kj_new{ width:463px; height:192px; background:url(../images/bm_new.JPG)/*tpa=http://www.cn0-6.com/images/bm_new.JPG*/ no-repeat; float:right}
+.top_Img{ width:208px; float:left; line-height:192px;height:192px; text-align:center;}
+.top_Img img{ width:173px; height:130px;border:5px solid #fff; padding:1px;margin-top:32px;}
+.hotList{ width:240px; float:left; list-style:none; margin:60px 0px 0px 0px; line-height:22px; color:#fff;}
+.hotList li{ border-bottom:1px dashed #fff;}
+.hotList .l{ float:left} .hotList .r{ float:right}
+
+.content_Img{ width:154px; height:auto;float:left; text-align:center; margin-bottom:3px;}
+.content_Img img{ width:118px; height:84px;border:2px solid #fff; padding:1px; margin-bottom:3px;}
+.contentList{ width:300px; float:left; list-style:none; margin:0px; line-height:18px; color:#666;}
+.contentList li{ background:url(../images/bm_content_ico.gif)/*tpa=http://www.cn0-6.com/images/bm_content_ico.gif*/ 8px 3px no-repeat; padding-left:18px; }
+.contentList .l{ float:left} .contentList .r{ float:right}
+
+
+#meun_title{ width:929px; height:30px; background:url(../images/bm_title.JPG)/*tpa=http://www.cn0-6.com/images/bm_title.JPG*/ no-repeat; margin-top:10px;}
+#meun_title .l{ width:200px; float:left; text-align:left}#meun_title .r{ width:180px; float:right;}
+#meun_content{ height:209px; width:927px; background:url(../images/bm_title_content.JPG)/*tpa=http://www.cn0-6.com/images/bm_title_content.JPG*/ repeat-x; border-left:1px solid #F099FF; border-right:1px solid #F099FF; border-top:1px solid #F099FF;}
+#meun_down{ width:929px; height:9px; background:url(../images/bm_title_down.JPG)/*tpa=http://www.cn0-6.com/images/bm_title_down.JPG*/ no-repeat;}
+.meun_items{ width:308px; float:left; margin-top:9px;}
+.ff{font-family:Arial, Helvetica, sans-serif; font-size:12px;color: #fff; padding-right:5px; line-height:30px;}
+a.ff:link {color: #fff;text-decoration: none;} 
+a.ff:visited {color: #fff;text-decoration: none;} 
+a.ff:hover{color:#FF3300;text-decoration: none;} 
+a.ff:active {color: #fff;text-decoration: none;}
+
+.items{font-size:12px;color: #222222;padding-left:5px; padding-right:5px;}
+a.items:link {color:#222222;text-decoration: none;} 
+a.items:visited {color: #666666;text-decoration: none;} 
+a.items:hover{color: #009900;text-decoration: underline;} 
+a.items:active {color: #222222;text-decoration: underline;} 

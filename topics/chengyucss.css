@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body,div,span,img,ul,li,table,td,tr{margin:0px; padding:0px; font-size:12px;}
+body{text-align:center;}
+#maindiv{width:100%;}
+#maintop{width:975px; height:92px; margin:0 auto;}
+#topleft{width:222px; float:left; margin:0 39 0 15;}
+#topright{width:699px; height:92px; float:left;}
+#topright1{margin:6 0 20 0;  height:19px; background-image:url(images/topright.jpg)/*tpa=http://www.cn0-6.com/topics/images/topright.jpg*/; background-position:right; background-repeat:no-repeat; text-align:right; padding:4 40 0 0;;}
+#topright1 a{ text-decoration:none; color:#000000;}
+#topright2{height:31px; margin:0 0 16 0; background-image:url(images/chengyu_01_04_04.jpg)/*tpa=http://www.cn0-6.com/topics/images/chengyu_01_04_04.jpg*/; line-height:27px;}
+#maintop2{width:975px; height:72px; margin:0 auto;}
+#daohang{width:935px !important; height:24px !important;width:975px; height:36px; margin:10 auto 13 auto; background-image:url(images/chengyu_04.jpg)/*tpa=http://www.cn0-6.com/topics/images/chengyu_04.jpg*/; text-align:left; padding:12 0 0 40 ; } 
+#mainpage{width:975px; margin:0 auto; clear:both;}
+#mainpageleft{width:268px;float:left; margin:0 22 0 0;}
+#mainpageright{width:681px; float:left; border:solid 2px #DDDDDD; height:674px; background-image:url(images/rightbg.jpg)/*tpa=http://www.cn0-6.com/topics/images/rightbg.jpg*/; background-position:bottom; background-repeat:no-repeat;}
+#foot{width:975px; height:99px; margin:0 auto; clear:both;}
+a.meunCss:link{ font-size:16px; color:#fff; text-decoration:none}
+a.meunCss:hover{ font-size:16px; color:#fff; text-decoration:underline}
+a.meunCss:visited{ font-size:16px; color:#fff; text-decoration:none}
+#lefttop{width:268px; height:37px; background-image:url(images/lefttopbg.jpg)/*tpa=http://www.cn0-6.com/topics/images/lefttopbg.jpg*/;}
+#leftout{border:solid 1px #CFCFCF;width:266px; height:639px;}
+#leftli{ height:616px !important;border:solid 1px #7ADDFC; margin:3px; width:238px !important; width:258px; height:631px; padding-top:15px; text-align:left; padding-left:20px;}
+#foot1{width:975px; height:35px; background-image:url(images/foot1bg.jpg)/*tpa=http://www.cn0-6.com/topics/images/foot1bg.jpg*/; background-repeat:repeat; }
+#foot2{width:975px; height:49px; padding-top:15px;}
+#leftli li{list-style-type:none; text-align:left; height:28px; width:178px !important;  background-image:url(images/libg.gif)/*tpa=http://www.cn0-6.com/topics/images/libg.gif*/; background-repeat:no-repeat; padding-left:20px;}
+#leftli li a{text-decoration:none; color:#000000;}
+#foot2 a{text-decoration:none; color:#000000;}
+#foot1 a{text-decoration:none; color:#000000;}
+#daohang a{text-decoration:none; color:#000000;}
+#mainpagerighttop{width:100%; height:610px !important; height:620px; padding-top:10px;}
+#mainpagerighttop li{height:25px; width:38%; list-style-type:none; float:left;}
+#mainpagerighttop li a{text-decoration:none; color:#000000;}
+#mainpagerightbottom{width:100%;height:54px;}
+#maincontent{width:100%; text-align:left; padding:5px; line-height:20px; font-size:12px;}
+#maincontent a{text-decoration:none; color:#000000;}

@@ -1,0 +1,90 @@
+/* CSS Document */
+.cnzz{display:none;}
+html {overflow-y:auto!important;
+*overflow-y:scroll;
+} 
+body{ margin:10px 0px;}
+ul{ padding:0px; margin:0px;}
+body,div{ font-size:12px; color:#333;}
+a{text-decoration: none;font-size:14px;} 
+a:link {color: #ffffff;text-decoration: none;} 
+a:visited {color: #ffffff;text-decoration: none;} 
+a:hover{color: #ffffff;text-decoration:underline;} 
+a:active {color: #ffffff;text-decoration: underline;} 
+
+a.a1:link{ font-size:12px; display: inline-block}
+a.a1:hover{ font-size:12px; text-decoration:underline;display: inline-block}
+a.a1:visited{ font-size:12px;display: inline-block}
+/*导航*/
+.red{ background:url(../images/menured_1.jpg)/*tpa=http://www.cn0-6.com/images/menured_1.jpg*/; width:93px; height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px; float:left; text-align:center;}
+.red2{ background:url(../images/menured_1.jpg)/*tpa=http://www.cn0-6.com/images/menured_1.jpg*/ 0px -26px; width:93px; height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.zi{ background:url(../images/menuzi_1.jpg)/*tpa=http://www.cn0-6.com/images/menuzi_1.jpg*/; width:93px; height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px; float:left; text-align:center;}
+.zi2{ background:url(../images/menuzi_1.jpg)/*tpa=http://www.cn0-6.com/images/menuzi_1.jpg*/ 0px -25px; width:93px; height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.blue{ background:url(../images/menublue_1.jpg)/*tpa=http://www.cn0-6.com/images/menublue_1.jpg*/; width:91px; height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.blue2{ background:url(../images/menublue_1.jpg)/*tpa=http://www.cn0-6.com/images/menublue_1.jpg*/ 0px -25px; width:91px;height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.lightblue{ background:url(../images/menulightblue_1.jpg)/*tpa=http://www.cn0-6.com/images/menulightblue_1.jpg*/; width:91px;height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.lightblue2{ background:url(../images/menulightblue_1.jpg)/*tpa=http://www.cn0-6.com/images/menulightblue_1.jpg*/ 0px -25px; width:91px;height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.green{ background:url(../images/menugreen_1.jpg)/*tpa=http://www.cn0-6.com/images/menugreen_1.jpg*/; width:91px;height:auto; line-height:25px;  background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.green2{ background:url(../images/menugreen_1.jpg)/*tpa=http://www.cn0-6.com/images/menugreen_1.jpg*/ 0px -25px; width:91px;height:auto; line-height:25px;  background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.yellow{ background:url(../images/menuyellow_1.jpg)/*tpa=http://www.cn0-6.com/images/menuyellow_1.jpg*/ ; width:81px;height:auto; line-height:25px; background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.yellow2{ background:url(../images/menuyellow_1.jpg)/*tpa=http://www.cn0-6.com/images/menuyellow_1.jpg*/ 0px -25px; width:81px;height:auto; line-height:25px;  background-repeat:no-repeat; margin-right:3px;float:left;text-align:center;}
+.orange{ background:url(../images/menuorange_1.jpg)/*tpa=http://www.cn0-6.com/images/menuorange_1.jpg*/; width:81px;height:auto; line-height:25px; background-repeat:no-repeat;float:left;text-align:center;}
+.orange2{ background:url(../images/menuorange_1.jpg)/*tpa=http://www.cn0-6.com/images/menuorange_1.jpg*/ 0px -25px; width:81px;height:auto; line-height:25px; background-repeat:no-repeat;float:left;text-align:center;}
+.menuseparator {background-image:url(../images/menu-bg.jpg)/*tpa=http://www.cn0-6.com/images/menu-bg.jpg*/; background-repeat:repeat-x;}
+
+td{
+	font-size: 12px;
+	color: #333;
+	line-height:18px;
+	font-family: "宋体",Arial, Helvetica, sans-serif;
+	}
+/*首页下拉菜单*/
+.select_on{width:78px; float:left;height:19px; text-align:center; position:relative; border-left:1px solid #666666;border-right:1px solid #666666;border-top:1px solid #666666;}
+.select_out{width:80px; height:20px; float:left; text-align:center; position:relative; z-index:999;}	
+/*友情链接样式*/
+.linkCss{ width:10%; float:left; text-align:center; overflow:hidden; font-variant:small-caps; font-size:12px;}	
+/*底部LOGO*/
+#f_ul ul{list-style:none; width:405px; margin:0px; padding:0px; display:inline-table}
+#f_ul li{width:115px; height:45px; border:1px solid #ccc; padding:3px; line-height:22px; float:left;margin:5px;}
+#f_ul img{ float:left; margin:auto; border:0px;}
+
+.foot{font-size:12px;color: #000000;padding-left:5px; padding-right:5px;}
+a.foot:link {color: #000000;text-decoration: none;} 
+a.foot:visited {color: #000000;text-decoration: none;} 
+a.foot:hover{color: #9e0a0e;text-decoration: underline;} 
+a.foot:active {color: #9e0a0e;text-decoration: underline;} 
+
+.foot1{font-family:Arial, Helvetica, sans-serif; font-size:12px;color: #666666; padding-right:5px;}
+a.foot1:link {color: #000000;text-decoration: none;} 
+a.foot1:visited {color: #000000;text-decoration: none;} 
+a.foot1:hover{color:#FF0000;text-decoration: none;} 
+a.foot1:active {color: #000000;text-decoration: none;} 
+/*登录、注册按钮*/
+.index_button {padding:0px 4px;height:18px;width:59px;cursor:pointer;margin-top:2px;border:0px;background:url(../images/button_bg.gif)/*tpa=http://www.cn0-6.com/images/button_bg.gif*/ no-repeat;font-size:12px;padding-top:2px;color:#ffffff}
+.index_colorfocus {border: 1px #86a1ba double;background-color: #fff8e6;}
+.index_colorblur {border: 1px #000000 double;background-color: #ffffff;}
+
+/*黑色链接*/
+.linkBlack{text-decoration: none;font-size:12px;color:red}
+a.linkBlack:link {color: red;text-decoration: none;} 
+a.linkBlack:visited {color: red;text-decoration: none;} 
+a.linkBlack:hover{color: #000;text-decoration:underline;} 
+a.linkBlack:active {color: #000;text-decoration: underline;} 
+
+.topRight{width:200px; float:right;height:60px}
+.topRightDown{width:200px;float:right; line-height:30px;}
+/*顶部加载效果*/
+.loadingStr{position:absolute; height:30px; right:0px; padding-top:10px; top:0px; display:none; background:#FFFFCC}
+/*彩色选项卡*/
+.menuOpen {
+    font-weight:bold;color:#ffffff;background:url(../images/gx_07_4.gif)/*tpa=http://www.cn0-6.com/images/gx_07_4.gif*/ no-repeat; height:24px; width:24px;text-align:center; margin:0px;
+}
+.menuNo {
+    font-weight:bold;color:#249918;background:url(../images/gx_07_3.gif)/*tpa=http://www.cn0-6.com/images/gx_07_3.gif*/ no-repeat; height:24px; width:24px;text-align:center; margin:0px;
+}
+.slidingList_none {
+    display:none
+}
+.slidingList {
+     margin-left:0px;width:156px; list-style:none; text-align:left; line-height:22px;
+}

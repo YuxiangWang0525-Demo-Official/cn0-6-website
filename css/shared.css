@@ -1,0 +1,49 @@
+/* CSS Document */
+
+#bodyContent{ width:100%; text-align:center; margin-bottom:10px;}
+h1{ color:#FFFFFF; font-size:14px; line-height:30px;padding-left:30px; display:inline}
+h2{ color:#999999; font-size:12px; margin:0px;}
+#Location{ width:930px; margin-left:auto;margin-right:auto; margin-top:10px; color:#222; text-align:left}
+.Lcenter{ width:930px; margin-left:auto; margin-right:auto; }
+#kj_top{ width:459px; height:192px; background:url(../images/gx_hot.JPG)/*tpa=http://www.cn0-6.com/images/gx_hot.JPG*/ no-repeat; float:left}
+#kj_new{ width:463px; height:192px; background:url(../images/gx_new.JPG)/*tpa=http://www.cn0-6.com/images/gx_new.JPG*/ no-repeat; float:right}
+.top_Img{ width:208px; float:left; line-height:192px;height:192px; text-align:center;}
+.top_Img img{ width:173px; height:130px;border:5px solid #fff; padding:1px;margin-top:32px;}
+.hotList{ width:240px; float:left; list-style:none; margin:60px 0px 0px 0px; line-height:22px; color:#fff;}
+.hotList li{ border-bottom:1px dashed #fff;}
+.hotList .l{ float:left} .hotList .r{ float:right}
+
+.content_Img{ width:231px; height:auto;float:left; text-align:center; margin-bottom:3px;}
+.content_Img img{ width:118px; height:84px;border:2px solid #fff; padding:1px; margin-bottom:3px;}
+.contentList{ width:225px; float:left; list-style:none; margin:0px; line-height:18px; color:#666;}
+.contentList li{ background:url(../images/gx_content_ico.gif)/*tpa=http://www.cn0-6.com/images/gx_content_ico.gif*/ 8px 3px no-repeat; padding-left:18px; }
+.contentList .l{ float:left} .contentList .r{ float:right}
+
+
+.meun_title{ width:929px; height:30px; background:url(../images/gx_title.JPG)/*tpa=http://www.cn0-6.com/images/gx_title.JPG*/ no-repeat; margin-top:10px;}
+.meun_title .l{ width:200px; float:left; text-align:left}.meun_title .r{ width:180px; float:right;}
+.meun_content{ height:100%; width:927px; border-left:1px solid #FFC178; border-right:1px solid #FFC178; border-top:1px solid #FFC178;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, EndColorStr='#FFE2DC', StartColorStr='#FFD9BC'); }
+#meun_down{ width:929px; height:9px; background:url(../images/gx_title_down.JPG)/*tpa=http://www.cn0-6.com/images/gx_title_down.JPG*/ no-repeat;}
+.meun_downDD{ width:929px; height:9px; background:url(../images/gx_title_down.JPG)/*tpa=http://www.cn0-6.com/images/gx_title_down.JPG*/ no-repeat;}
+.meun_items{ width:231px; float:left; margin-top:9px;}
+.ff{font-family:Arial, Helvetica, sans-serif; font-size:12px;color: #fff; padding-right:5px; line-height:30px;}
+a.ff:link {color: #fff;text-decoration: none;} 
+a.ff:visited {color: #fff;text-decoration: none;} 
+a.ff:hover{color:#FF3300;text-decoration: none;} 
+a.ff:active {color: #fff;text-decoration: none;}
+
+.items{font-size:12px;color: #222222;padding-left:5px; padding-right:5px;}
+a.items:link {color:#222222;text-decoration: none;} 
+a.items:visited {color: #666666;text-decoration: none;} 
+a.items:hover{color: #009900;text-decoration: underline;} 
+a.items:active {color: #222222;text-decoration: underline;} /* CSS Document */
+
+.Page{font-size:14px;color: #000;padding-left:5px; padding-right:5px;}
+a.Page:link {color:#000;text-decoration: none;} 
+a.Page:visited {color: #000;text-decoration: none;} 
+a.Page:hover{color: #009900;text-decoration: underline;} 
+a.Page:active {color: #000;text-decoration: underline;} /* CSS Document */
+
+.meun_items_egerall{ width:230px; float:left; margin-top:9px; display:inline; overflow:hidden;border-left:1px dashed #F6BB99; margin:0px; padding:0px;}
+.meun_items_egerall  img{ width:118px; height:84px;border:2px solid #fff; padding:1px; margin-bottom:3px;}
+

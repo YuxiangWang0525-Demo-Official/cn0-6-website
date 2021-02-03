@@ -1,0 +1,35 @@
+/*---------------------------------------------------------- 
+Basic Style Sheet(for version 5.5 browsers)
+
+version: 1.0
+author:  sinfer
+email:   260084337@qq.com
+website: http://www.cn0-6.com/bank
+----------------------------------------------------------*/
+
+body{ text-align:center; background:#331107; padding:0px; margin:0px;}
+#div_body{background:url(../images/main_bg02.jpg)/*tpa=http://www.cn0-6.com/images/main_bg02.jpg*/ repeat-x; width:100%; height:705px;margin:0px; padding:0px; text-align:center;}
+#divdiy_body{background:url(../images/main_bg2.jpg)/*tpa=http://www.cn0-6.com/images/main_bg2.jpg*/ repeat-x; width:100%;margin:0px; padding:0px; text-align:center;}
+
+#div_top{ margin-left:auto; margin-right:auto;}
+#div_buttom{ margin-left:auto; margin-right:auto; background:url(../images/main_bottom_bg.gif)/*tpa=http://www.cn0-6.com/images/main_bottom_bg.gif*/ repeat-x;}
+#div_content_bg{margin-left:auto; margin-right:auto; height:595px;}
+#div_contentdiy_bg{margin-left:auto; margin-right:auto; height:933px;}
+#div_content{ margin-left:auto; margin-right:auto; width:1003px; padding:0px;}
+#div_c{ background:#FFDE03; width:769px; height:489px; float:left; margin-top:0px;}
+#divdiy_c{ background:#ffffff; width:769px; height:827px; float:left; margin-top:0px; overflow:hidden}
+#div_c_map{background:#DCE795; width:769px; height:489px; float:left; margin-top:0px; overflow:hidden; position:relative;}
+#mapImg{background-image:url(../lightbox/images/lightbox-ico-loading.gif)/*tpa=http://www.cn0-6.com/lightbox/images/lightbox-ico-loading.gif*/ left top;background-repeat:no-repeat;}
+#div_muen{ float:left; height:52px; padding:0px; margin:0px;}
+#content_title{ height:47px; text-align:left;}
+#content_c{background:url(../images/main_content_middle_bg.jpg)/*tpa=http://www.cn0-6.com/images/main_content_middle_bg.jpg*/ repeat-y; width:709px; margin-left:auto; margin-right:auto; height:280px; text-align:left; overflow:auto}
+#div_c_left{ float:left;}
+#div_c_right{ float:right;}
+#div_c_foot{ float:left;}
+
+.alertbg{ background:url(../images/hxlogin_bg.JPG)/*tpa=http://www.cn0-6.com/images/hxlogin_bg.JPG*/ no-repeat; height:250px; width:350px; border:5px solid #999999}
+.alertinput{ border:1px solid #FF0000; width:150px;}
+.register{ display:block; background:url(../images/hx_register.GIF)/*tpa=http://www.cn0-6.com/images/hx_register.GIF*/ no-repeat; width:65px; height:23px;}
+.alertsub{ background:url(../images/hx_login.GIF)/*tpa=http://www.cn0-6.com/images/hx_login.GIF*/ no-repeat; width:65px; height:23px; border:0px; cursor:pointer}
+.alertclose{ background:url(../images/hx_qx.JPG)/*tpa=http://www.cn0-6.com/images/hx_qx.JPG*/ no-repeat; width:65px; height:23px; border:0px; cursor:pointer}
+.cnzz{display:none;}
